@@ -1,0 +1,83 @@
+{
+  "created": "2026-11-03",
+  "posts": 100,
+  "languages": [
+    "tr",
+    "en"
+  ],
+  "reviewLanguage": "ru",
+  "imageGeneration": {
+    "model": "projects/project-27367990-5a35-490f-8b3/locations/global/publishers/google/models/gemini-nano-banana-2.1",
+    "requested": "2K",
+    "actualNew": {
+      "width": 768,
+      "height": 1376
+    },
+    "actualReused": {
+      "width": 928,
+      "height": 1152
+    },
+    "newPrompts": [
+      {
+        "key": "rain",
+        "prompt": "Photorealistic editorial photograph, portrait 9:16. Rain on a tall apartment window at blue hour, muted amber street lights beautifully blurred beyond it, a small glass of tea and closed dark book low in the bottom right corner. Quiet intimate feeling, ink blue and warm gold. Top 70 percent mostly calm dark navy negative space with subtle water texture, suitable for legible white text added later. No people, no text, no letters, no logo, no watermark, no collage."
+      },
+      {
+        "key": "roses",
+        "prompt": "Photorealistic editorial still life portrait 9:16. A single soft pink rose, ivory envelope with no writing, old brass ring on a warm cream linen table, late afternoon window light. All objects concentrated near bottom quarter and lower right. Upper two thirds a beautiful soft subtly textured pale ivory backdrop, spacious calm composition for dark typography added later. Intimate romantic, real photographic details, no people, no text, no writing, no watermark, no collage."
+      },
+      {
+        "key": "sea",
+        "prompt": "Photorealistic cinematic vertical 9:16 photograph of a quiet Mediterranean coastline at deep dusk, tiny distant golden lights, indigo sea below, broad dark velvety navy sky filling top 75 percent, subtle horizon and a small dark rock at the bottom. Sophisticated serene mysterious mood, natural film grain, space for large white typography added separately. No people, no text, no logo, no moon with impossible details, no collage."
+      },
+      {
+        "key": "coffee",
+        "prompt": "Photorealistic editorial portrait 9:16 image. A ceramic espresso cup, small white saucer, folded ivory notebook without writing and sunlight on an old wood cafe table. Objects only in the lower 25 percent. Top 70 percent is a gently out of focus warm taupe and cream cafe wall, quiet shadows, ample uncluttered negative space for dark typography added later. Natural photographic textures, cozy Mediterranean morning, no people, no lettering, no watermark, no collage."
+      },
+      {
+        "key": "sky",
+        "prompt": "Cinematic photorealistic portrait 9:16 photograph. A tiny crescent moon high above a dark Mediterranean balcony at night, a flowering branch and railing low at bottom right. Deep plum ink-blue sky occupying 80 percent, delicate real stars very sparse, soft distant amber city glow at bottom. Quiet poetic atmosphere, spacious composition for white text added later, no words, no logo, no people, no collage."
+      },
+      {
+        "key": "letter",
+        "prompt": "Photorealistic editorial portrait 9:16 photograph. A vintage wooden desk beside a window at twilight. At the bottom right, a sealed cream envelope with no writing, a small brass key, and a softly glowing candle. Top three quarters is dark olive green wall and soft shadow with subtle texture, clean generous space for cream text added later. Intimate refined still life, genuine physical light, no letters, no words, no logos, no watermark, no collage."
+      }
+    ]
+  },
+  "copy": {
+    "provider": "Google MCP",
+    "model": "projects/project-27367990-5a35-490f-8b3/locations/global/publishers/google/models/gemini-3.1-pro-preview",
+    "process": "100 individual scenario briefs, 10 generation batches, 5 language reviews of 20 posts; Codex editorial assembly and corrections",
+    "reviewed": 100,
+    "appliedCorrections": 20
+  },
+  "exports": {
+    "format": "JPEG",
+    "resolutions": {
+      "9:16": [
+        1080,
+        1920
+      ],
+      "4:5": [
+        1080,
+        1350
+      ]
+    },
+    "expectedCount": 504,
+    "rendering": "HTML/CSS, Playwright, sharp",
+    "newVideoFiles": 0
+  },
+  "references": {
+    "previousAccountsFile": "references.json",
+    "notes": "research-notes.txt",
+    "primaryAdditional": "https://iamyoutarot.com/instagram/",
+    "indexedCandidates": [
+      "https://imginn.com/p/Dc3kx3uNn0q/",
+      "https://imginn.com/p/DWLv-WTDPzH/"
+    ],
+    "metricsVerified": false
+  },
+  "status": "Drafts for selection, nothing published",
+  "brand": "Inkbloom (working name)",
+  "personas": "Elif is an original fictional editorial character, not a real customer"
+}

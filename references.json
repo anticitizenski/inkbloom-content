@@ -1,0 +1,16 @@
+{
+  "verified": "2026-11-03",
+  "accounts": [
+    {"handle":"yikikask","url":"https://www.instagram.com/yikikask/","role":"Образец оформления заметок в стиле Twitter: имя/аватар, простой тёмный фон, текстовое послание. В профиле есть также мемы и бытовые тексты — это не исключительно эзотерический аккаунт.","example":"https://www.instagram.com/p/DfKh277oEbn/"},
+    {"handle":"tarotmelsi","url":"https://www.instagram.com/tarotmelsi/","role":"Турецкая лексика посланий, образные сгенерированные изображения, темы ожидания хороших перемен.","example":"https://www.instagram.com/tarotmelsi/p/DVUJwkCCAg8/"},
+    {"handle":"tarotbyece","url":"https://www.instagram.com/tarotbyece/","role":"Плотные турецкие текстовые прогнозы с обращением на «ты», темами работы, денег и отношений.","example":"https://www.instagram.com/tarotbyece/p/DcxsmODsbdl/"},
+    {"handle":"tarottyagmur","url":"https://www.instagram.com/tarottyagmur/","role":"Дополнительный проверенный кандидат: турецкие карусели и тематические послания. Не использован как доказательство популярности."}
+  ],
+  "user_references": [
+    {"url":"https://www.instagram.com/p/DfFmqPgsHyr/","role":"Простой типографический пост: время, послание, отклик в комментарии."},
+    {"url":"https://www.instagram.com/p/DfF2HZsIhAx/","role":"Градиентная карточка, обращение на «ты», ожидание новости, отправка себе."},
+    {"url":"https://www.instagram.com/p/DUl_fMJCvuv/","role":"Фотография с затемнением, объёмное послание поверх, призыв принять или отправить себе."},
+    {"url":"https://www.instagram.com/robertmckeaveney/","role":"Справочник визуальных хуков и структуры коротких роликов; не источник эзотерических текстов."}
+  ],
+  "scope":"Аккаунты проверены по доступным открытым профилям/публикациям. Это подборка по соответствию формату, не доказательство продаж или рейтинг охватов. Новые тексты оригинальные; чужие тексты и изображения не скопированы."
+}
